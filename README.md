@@ -8,15 +8,15 @@
 
 # Get code
 
-* git clone git@github.com:chico/ArduinoTemperatureBrowser.git
-* cd ArduinoTemperatureBrowser
+* ```git clone git@github.com:chico/ArduinoTemperatureBrowser.git```
+* ```cd ArduinoTemperatureBrowser```
 
 # Install and run
 
-* npm install
-* npm install -g browserify
-* browserify client.js -o static/bundle.js
-* node server
+* ```npm install```
+* ```npm install -g browserify```
+* ```browserify client.js -o static/bundle.js```
+* ```node server```
 
 # See if it works :)
 
