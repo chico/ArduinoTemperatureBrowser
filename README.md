@@ -6,7 +6,12 @@
 * Connect left pin to 3.3V
 * Connect right pin to Ground
 
-# Install and run code
+# Get code
+
+* git clone git@github.com:chico/ArduinoTemperatureBrowser.git
+* cd ArduinoTemperatureBrowser
+
+# Install and run
 
 * npm install
 * npm install -g browserify
