@@ -15,4 +15,4 @@
 
 # See if it works :)
 
-* Open http://localhost:9999
+* Open [http://localhost:9999](http://localhost:9999)
